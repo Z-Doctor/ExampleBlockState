@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=brick": { "model":"minecraft:brick" },
+        "type=stone": { "model":"minecraft:stone" }
+    }
+}
