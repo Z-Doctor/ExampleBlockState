@@ -1,6 +1,6 @@
 {
    "overrides": [
-        {"predicate": {"meta": 0}, "model": "minecraft:brick_block"},
-        {"predicate": {"meta": 1}, "model": "minecraft:stone"}
+        {"predicate": {"meta": 0}, "model": "item/brick_block"},
+        {"predicate": {"meta": 1}, "model": "item/stone"}
     ]
 }
